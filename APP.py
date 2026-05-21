@@ -82,7 +82,7 @@ def get_accumulated_vocab(vocab_db, sequence, target_index):
 # ==========================================
 # 3. GUI 介面實體化與交互濾網
 # ==========================================
-st.set_page_config(page_title="中原國專部文章等級與超綱詞檢測系統", layout="wide")
+st.set_page_config(page_title="中原大學國專部文章等級與超綱詞檢測系統", layout="wide")
 st.title("文章等級與超綱詞檢測系統")
 
 # 初始化環境
